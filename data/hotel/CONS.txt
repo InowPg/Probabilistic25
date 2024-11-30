@@ -1,0 +1,1 @@
+{ t0.hotel id == t1.hotel id && t0.price > t1.price  && t0.service fee <= t1.service fee}
